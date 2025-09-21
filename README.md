@@ -8,13 +8,13 @@
 ![](https://komarev.com/ghpvc/?username=hayaaldossari&color=green)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=002c5e&duration=4000&lines=Hello+World!+👋;+I'm+Haya+Aldossari!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Source+Code+Pro&size=48&center=true&vCenter=true&width=500&height=70&color=002c5e&duration=4000&lines=Hello+World!+👋;+IAm+Haya+Aldossari!;" />
 </h1>
 
 
 ###  Hi, I’m Haya  
 
-🎓 AI & Data Science Student |  Deep Learning • Machine Learning • Computer Vision • NLP  
+🎓 AI Student |  Deep Learning • Machine Learning • Data Science • NLP • Computer Vision  
 
 
 
@@ -23,10 +23,10 @@
 I’m passionate about **artificial intelligence** and how it can transform ideas into real-world impact.  
 My journey in AI blends **hands-on projects, research, and continuous learning** across different domains:  
 
-- 🤖 **Deep Learning** — TensorFlow, PyTorch, model optimization, and deployment  
-- 📊 **Machine Learning & Data Analysis** — Scikit-learn, Pandas, NumPy, end-to-end ML pipelines  
-- 👁️ **Computer Vision** — CNNs, image similarity, fashion-tech applications, OpenCV  
-- 🗣️ **Natural Language Processing (NLP)** — Transformers, LLMs, text analysis, Seq2Seq models  
+-  **Deep Learning** — TensorFlow, PyTorch, model optimization, and deployment  
+-  **Machine Learning & Data Analysis** — Scikit-learn, Pandas, NumPy, end-to-end ML pipelines  
+-  **Computer Vision** — CNNs, image similarity, fashion-tech applications, OpenCV  
+-  **Natural Language Processing (NLP)** — Transformers, LLMs, text analysis, Seq2Seq models  
 
 I enjoy experimenting with new ideas, building projects that bridge theory with application, and sharing what I learn along the way.  
 
@@ -46,7 +46,7 @@ I enjoy experimenting with new ideas, building projects that bridge theory with 
 </div>
 
 <hr>
-## 🛠️ Languages and Tools
+##  Languages and Tools
 
 <br>
 
