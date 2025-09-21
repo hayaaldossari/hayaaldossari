@@ -1,14 +1,14 @@
-<img width = 100% src="https://github.com/Yara-Fahad/Yara-Fahad/blob/main/Github%20Banner.png" alt="github banner"/>
+<img width = 100% src="https://github.com/hayaaldossari/hayaaldossari/blob/main/Cables%20Business%20Etsy%20Banner.png"/>
 
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/Yara-Fahad/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/hayaaldossari/count.svg" alt="Visitor's Count" />
 </div>
 
-![](https://komarev.com/ghpvc/?username=Yara-Fahad&color=green)
+![](https://komarev.com/ghpvc/?username=hayaaldossari&color=green)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=5D3FD3&duration=4000&lines=Hello+World!+👋;+I'm+Yara+Alshedokhi!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=5D3FD3&duration=4000&lines=Hello+World!+👋;+I'm+Haya+Aldossari!;" />
 </h1>
 
 
