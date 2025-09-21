@@ -46,3 +46,25 @@ I enjoy experimenting with new ideas, building projects that bridge theory with 
 </div>
 
 <hr>
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,postman,figma,py" />
+  <img src="https://skillicons.dev/icons?i=vscode,pytorch,docker,fastapi,sklearn,tensorflow" />
+</p>
+
+<hr>
+
+##  Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=hayaaldossari&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="hayaaldossari's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=yara-fahad&theme=transparent&count_private=true&border_radius=10&locale=en" alt="hayaaldossari's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=hayaaldossari&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="hayaaldossari's Most Used Languages" />
+</div>
+
+<hr>
