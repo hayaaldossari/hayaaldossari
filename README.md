@@ -8,14 +8,31 @@
 ![](https://komarev.com/ghpvc/?username=hayaaldossari&color=green)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=5D3FD3&duration=4000&lines=Hello+World!+👋;+I'm+Haya+Aldossari!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=002c5e&duration=4000&lines=Hello+World!+👋;+I'm+Haya+Aldossari!;" />
 </h1>
 
 
-### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
+###  Hi, I’m Haya  
 
-- 🌱 I’m currently learning [System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)
-- 💬 Ask me about Java, Node.js, React...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)
+🎓 AI & Data Science Student |  Deep Learning • Machine Learning • Computer Vision • NLP  
+
+
+
+##  About Me  
+
+I’m passionate about **artificial intelligence** and how it can transform ideas into real-world impact.  
+My journey in AI blends **hands-on projects, research, and continuous learning** across different domains:  
+
+- 🤖 **Deep Learning** — TensorFlow, PyTorch, model optimization, and deployment  
+- 📊 **Machine Learning & Data Analysis** — Scikit-learn, Pandas, NumPy, end-to-end ML pipelines  
+- 👁️ **Computer Vision** — CNNs, image similarity, fashion-tech applications, OpenCV  
+- 🗣️ **Natural Language Processing (NLP)** — Transformers, LLMs, text analysis, Seq2Seq models  
+
+I enjoy experimenting with new ideas, building projects that bridge theory with application, and sharing what I learn along the way.  
+
+
+-  I’m currently learning [Artifical intelligence]
+-  Ask me about Python, Java, Data analysis...or anything [here](https://github.com/hayaaldossari/hayaaldossari/issues)
 
 <br>
 
